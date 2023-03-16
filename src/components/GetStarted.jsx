@@ -10,7 +10,7 @@ const GetStarted = () => {
       >
          <div
             className={`${styles.flexCenter} flex-col bg-primary w-[100%] 
-            h-[100%] rounded-full`}
+            h-[100%] rounded-full get-started`}
          >
             <div className={`${styles.flexStart} flex-row`}>
                <p className="font-poppins font-medium text-[18px] leading-[23px] mr-2">
